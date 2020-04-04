@@ -7,6 +7,7 @@ klanksdnkjnjknrvni
 4444444444444444
 5555555555555555
 kjahksh
-这是新分支的内容
+这是新分支的
+这是设计冲突分支内容
 klajsdklje
 这是测试冲突的内容master
